@@ -184,6 +184,7 @@ public class GestorCorreo {
                     
                     // validación
                     do {
+                        
                         System.out.println("\n");
                         System.out.println("Enhorabuena el programa aún no ha petado, estas en la carpeta ***Eliminados***");
                         System.out.println("Selecciona qué quieres hacer dentro de esta carpeta y recuerda rezar para que no pete el programa");

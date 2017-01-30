@@ -14,6 +14,7 @@ public class Correo {
     asunto = a;
     mensaje = m;
     
+    
     }
     
     // este es el imprimir tipico de toa la bidah teteh

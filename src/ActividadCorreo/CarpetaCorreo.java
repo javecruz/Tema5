@@ -43,6 +43,7 @@ public class CarpetaCorreo {
         if( carpeta[i+1].el_Origen().equalsIgnoreCase(orig)){
             aux = i+1;
     
+            
         }
     }
         
