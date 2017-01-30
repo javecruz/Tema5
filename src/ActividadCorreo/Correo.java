@@ -20,7 +20,7 @@ public class Correo {
     @Override
     public String toString() {
         // devuelve todo en el formato que pide el ejercicio
-        return "Origen. - " + el_Origen() + "\n" + "Destino. - " + getDestino() + "\n" + "Asunto. - " + getAsunto() + "\n" + "Mensaje. - " + getMensaje();
+        return "Origen. - " + origen + "\n" + "Destino. - " + destino + "\n" + "Asunto. - " + asunto + "\n" + "Mensaje. - " + mensaje;
     }
 
     
